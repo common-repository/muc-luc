@@ -1,0 +1,68 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"X-Generator: Poedit 2.4.2\n"
+"Last-Translator: \n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: vi_VN\n"
+
+#. Text in echo
+#: muc-luc/inc/mucluc-admin-page.php:10
+msgid "Change display color parameters"
+msgstr "Thay đổi thông số hiển thị màu sắc"
+
+#. Text in echo
+#: muc-luc/inc/mucluc-admin-page.php:12
+msgid "Change theme"
+msgstr "Thay đổi chủ đề"
+
+#. Text in echo
+#: muc-luc/inc/mucluc-admin-page.php:24
+msgid "Disable"
+msgstr "Vô hiệu hóa"
+
+#. Text in function
+#: muc-luc/inc/mucluc-content.php:9
+msgid "Hide"
+msgstr "Ẩn"
+
+#. Text in echo
+#: muc-luc/inc/mucluc-admin-page.php:22
+msgid "Hide the Muc luc icon displayed on the screen"
+msgstr "Ẩn biểu tượng Muc luc hiển thị trên màn hình"
+
+#. Text in function
+#: muc-luc/inc/mucluc-admin-page.php:7
+msgid "Muc luc Settings"
+msgstr "Cài đặt Muc luc"
+
+#. Text in echo
+#: muc-luc/inc/mucluc-admin-page.php:31
+msgid "Save settings"
+msgstr "Lưu cài đặt"
+
+#. Text in echo
+#: muc-luc/inc/mucluc-admin-page.php:27
+msgid "Set a title for the table of contents"
+msgstr "Đặt tiêu đề cho mục lục nội dung"
+
+#. Text in function
+#: muc-luc/inc/mucluc-content.php:9
+msgid "Show"
+msgstr "Hiện"
+
+#. Text in function
+#: muc-luc/inc/mucluc-content.php:9 muc-luc/inc/mucluc-content.php:18
+msgid "Table of Contents"
+msgstr "Mục lục"
+
+#. Text in echo
+#: muc-luc/inc/mucluc-admin-page.php:28
+msgid "Title name"
+msgstr "Tiêu đề"
